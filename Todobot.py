@@ -1,6 +1,6 @@
 import telebot
 import random
-token = "6834706220:AAHXrVeWDsR114e95vetj9XROEhgGTT_pI8"
+token = "bot token todo bot"
 bot = telebot.TeleBot(token)
 
 HELP = """
